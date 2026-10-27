@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Brand,Unit_Price_USD,Stock_Qty,Expiry_Date,Rx_Required,Stock_Value,Days_To_Expiry,Stock_Status,Expiry_Status
+P001,Pain Relief Tablets 200mg,Pain Relief,ReliefWell,6.99,120,2027-08-15,FALSE,838.8000000000001,298,Medium,OK
+P002,Allergy Relief Tablets,Allergy,ClearAir,12.49,85,2027-01-03,FALSE,1061.65,74,Medium,Expiring soon
+P003,Amoxicillin Capsules,Antibiotic,MediCore,18.5,40,2027-01-20,TRUE,740,91,Low,Expiring soon
+P004,Vitamin C Chewables,Vitamins,VitaPlus,9.99,200,2028-10-02,FALSE,1998,712,Healthy,OK
+P005,Cough Syrup,Cold & Flu,SoothEase,8.75,64,2027-05-30,FALSE,560,221,Medium,OK
+P006,Blood Pressure Tablets,Cardiovascular,HeartGuard,22,55,2027-12-09,TRUE,1210,414,Low,OK
+P007,Antacid Chewables,Digestive,GastroCalm,5.49,150,2028-05-01,FALSE,823.5,558,Healthy,OK
+P008,Adhesive Bandages (100 ct),First Aid,CarePlus,4.99,300,2029-01-06,FALSE,1497,808,Healthy,OK
+P009,Antiseptic Solution 250ml,First Aid,PureShield,7.25,90,2028-04-18,FALSE,652.5,545,Medium,OK
+P010,Insulin Pen,Diabetes,GlucoSafe,45,25,2026-12-31,TRUE,1125,71,Low,Expiring soon
+P011,Multivitamin Tablets,Vitamins,VitaPlus,14.99,175,2028-07-22,FALSE,2623.25,640,Healthy,OK
+P012,Throat Lozenges,Cold & Flu,SoothEase,3.99,220,2027-09-11,FALSE,877.8000000000001,325,Healthy,OK
+P013,Eye Drops 15ml,Eye Care,ClearView,10.49,70,2027-06-14,FALSE,734.3000000000001,236,Medium,OK
+P014,Sunscreen SPF 50,Skin Care,SunShield,13.99,110,2028-03-03,FALSE,1538.9,499,Medium,OK
+P015,Asthma Inhaler,Respiratory,BreatheEasy,38.5,30,2027-02-27,TRUE,1155,129,Low,Expiring soon

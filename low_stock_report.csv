@@ -1,0 +1,5 @@
+Product_ID,Product_Name,Category,Brand,Unit_Price_USD,Stock_Qty,Expiry_Date,Rx_Required,Stock_Value,Days_To_Expiry,Stock_Status,Expiry_Status
+P010,Insulin Pen,Diabetes,GlucoSafe,45,25,2026-12-31,TRUE,1125,71,Low,Expiring soon
+P015,Asthma Inhaler,Respiratory,BreatheEasy,38.5,30,2027-02-27,TRUE,1155,129,Low,Expiring soon
+P003,Amoxicillin Capsules,Antibiotic,MediCore,18.5,40,2027-01-20,TRUE,740,91,Low,Expiring soon
+P006,Blood Pressure Tablets,Cardiovascular,HeartGuard,22,55,2027-12-09,TRUE,1210,414,Low,OK
